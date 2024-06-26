@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_join_premium"
+        android:icon="@drawable/baseline_workspace_premium_24"
+        android:title="Join Premium" />
+
+    <item android:id="@+id/educational_content"
+        android:icon="@drawable/baseline_medical_services_24"
+        android:title="Career"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Log out" />
+</menu>
